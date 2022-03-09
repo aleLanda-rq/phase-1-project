@@ -1,0 +1,102 @@
+/*background will be ABD699*/
+body {
+    background-color: #ABD699;
+   }
+   h1 {
+    color: #ffffff;
+    text-shadow: -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(000, 000, 000),
+      -1px 1px 0 rgb(0, 0, 0), 1px 1px 0 rgb(0, 0, 0);
+      text-align:center;
+  }
+
+
+
+  /* img1 {
+    height: 200px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  button {
+    margin: 20px;
+  }
+
+
+  img2 {
+    height: 200px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  button {
+    margin: 20px;
+  }
+
+
+  img3 {
+    height: 200px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  button {
+    margin: 20px;
+  }
+
+
+
+  img4{
+    height: 200px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  button {
+    margin: 20px;
+  }
+
+
+  img5 {
+    height: 200px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  button {
+    margin: 20px;
+  }
+
+  img6 {
+    height: 200px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  button {
+    margin: 20px;
+  }
+  */
