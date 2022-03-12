@@ -1,0 +1,145 @@
+/*background will be ABD699*/
+body {
+  background-color: #ABD699;
+ }
+ h1 {
+  color: #ffffff;
+  text-shadow: -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(000, 000, 000),
+    -1px 1px 0 rgb(0, 0, 0), 1px 1px 0 rgb(0, 0, 0);
+    text-align:center;
+    font-size:100px;
+}
+
+
+
+/* .container {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ max-width:50%;
+/* }  */
+
+#btn {
+color: red;
+font-size: larger;
+/* margin-right: 6000px;
+margin-left: 10px; */
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 42%;
+}
+
+#button {
+  color: black;
+  font-size: larger;
+  /* margin-right: 6000px;
+  margin-left: 10px; */
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 42%;
+  }
+  
+
+#fact{
+  text-align:center;
+}
+
+#cat-description {
+display: grid;
+padding: 2rem;
+grid-template-columns: 800px 1fr;
+gap: 1rem;
+align-items: center;
+max-width: 800px;
+font: 500 100%/1.5 system-ui;
+}
+
+#image1 {
+display: grid;
+padding: 2rem;
+grid-template-columns: 300px 1fr;
+gap: 1rem;
+align-items: center;
+max-width: 800px;
+margin: 0 auto;
+font: 500 100%/1.5 system-ui;
+}
+.wrapper {
+margin: 0 auto;
+width: 60%;
+padding-bottom: 40px;
+}
+/* #image2 {
+display: grid;
+padding: 2rem;
+grid-template-columns: 300px 1fr;
+gap: 1rem;
+align-items: center;
+max-width: 800px;
+margin: 0 auto;
+font: 500 100%/1.5 system-ui;
+}
+#image3 {
+display: grid;
+padding: 2rem;
+grid-template-columns: 300px 1fr;
+gap: 1rem;
+align-items: center;
+max-width: 800px;
+margin: 0 auto;
+font: 500 100%/1.5 system-ui;
+} */
+p{
+text-align:center;
+font-weight: 700;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.wrapper {
+max-width: 90%;
+margin-left: auto;
+margin-right: auto;
+}
+
+/* A media query for a large screen */
+@media (min-width: 1170px) {
+.wrapper {
+  max-width: 1170px;
+}
+}
+input[type=text], select, textarea {
+width: 100%; /* Full width */
+padding: 12px; /* Some padding */ 
+border: 1px solid #ccc; /* Gray border */
+border-radius: 4px; /* Rounded borders */
+box-sizing: border-box; /* Make sure that padding and width stays in place */
+margin-top: 6px; /* Add a top margin */
+margin-bottom: 16px; /* Bottom margin */
+resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+input[type=submit] {
+background-color: #04AA6D;
+color: white;
+padding: 12px 20px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+}
+
+
+input[type=submit]:hover {
+background-color: #45a049;
+}
+
+
+.container {
+border-radius: 5px;
+background-color: #75c9b7;
+padding: 20px;
+}

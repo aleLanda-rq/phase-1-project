@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Fur Legged Friend</title>
+    <script defer src="index.js"></script>
+    <link rel="stylesheet" href="app.css" />
+  </head>
+  <body>
+    <h1>Just Cats</h1> 
+   <!-- white color font for titles-->
+   
+ 
+    <div class="container">
+    <div class="wrapper">
+      
+         <img id="image1" src=" " alt=""></img>
+         <facts id="cat-description"> </facts>
+         <button id="btn"> ♡ </button>
+         <!-- <img id="image2" src=" "></img>
+         <button id="btn"> ♡ </button>
+         <p>A group of kittens is called a "kindle.</p>
+         <img id="image3" src=" "></img>
+         <button id="btn"> ♡ </button> -->
+         <!-- <p>Cats can drink sea water in order to survive</p> -->
+         <!-- <facts id="cat-description">Name </facts> -->
+  
+         <button id="button"type="button" onClick="refreshPage()">Click me for Random Cat</button>
+
+         <script>
+         function refreshPage(){
+             window.location.reload();
+         } 
+         </script>
+      </div>
+    </div>
+
+    <hr>
+ 
+   
+    <ul id="comment_section">
+      <!-- <textarea id="review"></textrea> -->
+      <p>Comment Section:</p>
+      <p id="text_box">hi</p>
+      <!-- <facts id="cat-description"> </facts> -->
+      <!-- <button id="btn">♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡</button> -->
+
+      
+
+    </ul>
+    <body>
+    
+      <div class="container">
+        <form action="action_page.php">
+      
+          <!-- <label for="fname">First Name</label> -->
+          <!-- <input type="text" id="fname" name="firstname" placeholder="Your name.."> -->
+      
+          <label for="comment">Comment</label>
+          <input type="text" id="comment-text-box" name="comment"  style="height:100px">
+      
+      
+          <!-- <label for="subject"></label>
+          <textarea id="subject" name="Comments" placeholder="Tell us your cat fact.." style="height:200px"></textarea>
+       -->
+          <input id="submit" type="submit" value="Submit">
+      
+        </form>
+      </div>
+  </body>

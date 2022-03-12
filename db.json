@@ -4,90 +4,82 @@
             "id": "1",
             "likes": 52,
             "image":"https://i.ytimg.com/vi/317jz-PU7Mg/maxresdefault.jpg",
-            "fact":"Cats are supposed to have 18 toes (five toes on each front paw; four toes on each back paw)."
+            "fact":"Cats are supposed to have 18 toes (five toes on each front paw; four toes on each back paw).",
+            "comment":"Such a cute cat photo!OMG!"
         },
         {
             "id": "2",
             "likes": 25,
             "image": "https://media.istockphoto.com/photos/cat-surfing-on-internet-picture-id1172290687?k=20&m=1172290687&s=612x612&w=0&h=xINesZHX6C7C6PH5PfRx2cDn8d69o01osus3YjXq1QU=",
-            "fact":"Cats have an extra organ that allows them to taste scents on the air, which is why your cat stares at you with her mouth open from time to time."
+            "fact":"Cats have an extra organ that allows them to taste scents on the air, which is why your cat stares at you with her mouth open from time to time.",
+            "comment":"Such a cute cat photo!OMG!"
 
         },
         {
             "id": "3",
             "likes": 51,
             "image":"https://i0.wp.com/katzenworld.co.uk/wp-content/uploads/2019/06/funny-cat.jpeg?fit=1920%2C1920&ssl=1",
-            "fact":"Cats rough tongues can lick a bone clean of any shred of meat."
+            "fact":"Cats rough tongues can lick a bone clean of any shred of meat.",
+            "comment":"Such a cute cat photo!OMG!"
 
         },
+    
         {
             "id": "4",
-            "likes": 5,
-            "image":"https://i.ytimg.com/vi/p25Ele612XE/maxresdefault.jpg",
-            "fact":" There are cats who have more than 18 toes. These extra-digit felines are referred to as being “polydactyl.” "
-
+            "likes": 13,
+            "image":"https://images.pexels.com/photos/2194261/pexels-photo-2194261.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "fact":"Despite popular belief, many cats are actually lactose intolerant.",
+            "comment":"Such a cute cat photo!OMG!"
         },
         {
             "id": "5",
-            "likes": 13,
-            "image":"https://images.pexels.com/photos/2194261/pexels-photo-2194261.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "fact":"Despite popular belief, many cats are actually lactose intolerant."
-        },
-        {
-            "id": "6",
             "likes": 52,
             "image":"https://ngolongtech.b-cdn.net/wp-content/uploads/2016/05/ngolongtech_Top-funny-cats-picture-3.jpg",
-            "fact":" Cats grooming process stimulates blood flow to his skin, regulates his body temperature and helps him relax. "
+            "fact":" Cats grooming process stimulates blood flow to his skin, regulates his body temperature and helps him relax. ",
+            "comment":"Such a cute cat photo!OMG!"
+
+        },        
+      
+              
+        {
+            "id": "6",
+            "likes": 35,
+            "image":"https://cdn.pixabay.com/photo/2017/03/17/12/06/cat-2151382__340.jpg",
+            "fact":" Cats mark you as their territory when they rub their faces and bodies against you, as they have scent glands in those areas. ", 
+            "comment":"Such a cute cat photo!OMG!"
 
         },        
         {
             "id": "7",
-            "likes": 15,
-            "image":"https://i.pinimg.com/736x/92/88/db/9288dbfaad5cf81a56c543869189b3a7.jpg",
-            "fact":" A cat with a question-mark-shaped tail is asking, “Want to play?” "
+            "likes": 25,
+            "image":"http://images1.fanpop.com/images/image_uploads/Funny-Cat-Pictures-animal-humor-935491_500_375.jpg",
+            "fact":" Kneading — which some people refer to as “making biscuits” — is a sign of contentment and happiness. Cats knead their mothers when they are nursing to stimulate the let-down of milk. ",
+            "comment":"Such a cute cat photo!OMG!"
 
-        },        
+        },       
         {
             "id": "8",
-            "likes": 35,
-            "image":"https://cdn.pixabay.com/photo/2017/03/17/12/06/cat-2151382__340.jpg",
-            "fact":" Cats mark you as their territory when they rub their faces and bodies against you, as they have scent glands in those areas. "
+            "likes": 15,
+            "image":"https://i.ytimg.com/vi/p5Vsg1CrhrI/hqdefault.jpg",
+            "fact":" Thieving behavior is not uncommon among cats. They will often grab objects like stuffed animals, feather dusters, and other things that remind them of prey. ",
+            "comment":"Such a cute cat photo!OMG!"
 
         },        
         {
             "id": "9",
-            "likes": 25,
-            "image":"http://images1.fanpop.com/images/image_uploads/Funny-Cat-Pictures-animal-humor-935491_500_375.jpg",
-            "fact":" Kneading — which some people refer to as “making biscuits” — is a sign of contentment and happiness. Cats knead their mothers when they are nursing to stimulate the let-down of milk. "
-
-        },       
-        {
-            "id": "10",
-            "likes": 15,
-            "image":"https://i.ytimg.com/vi/p5Vsg1CrhrI/hqdefault.jpg",
-            "fact":" Thieving behavior is not uncommon among cats. They will often grab objects like stuffed animals, feather dusters, and other things that remind them of prey. "
-
-        },        
-        {
-            "id": "11",
             "likes": 55,
             "image":"https://www.boredpanda.com/blog/wp-content/uploads/2020/04/funny-cat-video-calls-pictures-5-5eaa87a3ae56b__700.jpg",
-            "fact":" Cats learning style is about the same as a 2- to 3-year-old child. "
+            "fact":" Cats learning style is about the same as a 2- to 3-year-old child. ",
+            "comment":"Such a cute cat photo!OMG!"
 
         },        
+           
         {
-            "id": "12",
-            "likes": 35,
-            "image":"https://figopetinsurance.com/sites/default/files/imagecatscat-bed-full-kittensblog.jpg",
-            "fact":" A group of kittens is called a “kindle.” "
-
-        },        
-        {
-            "id": "13",
+            "id": "10",
             "likes": 44,
             "image":"https://s36537.pcdn.co/wp-content/uploads/2016/03/cat-drinks-water.jpg.optimal.jpg",
-            "fact":" Cats can drink sea water in order to survive. "
-
+            "fact":" Cats can drink sea water in order to survive. ",
+            "comment":"Such a cute cat photo!OMG!"
         }
     ]
 }
