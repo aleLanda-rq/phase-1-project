@@ -143,3 +143,7 @@ border-radius: 5px;
 background-color: #75c9b7;
 padding: 20px;
 }
+
+#cat-description{
+  text-align:center;
+}

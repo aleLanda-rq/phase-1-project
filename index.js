@@ -37,9 +37,10 @@ newComment.textContent=commentText.value
 textBox.append(newComment)
 }
 
+function refreshPage(){
+    window.location.reload();
 
-
-
+}
 
 
 
